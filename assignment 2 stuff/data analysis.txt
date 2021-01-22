@@ -1,0 +1,9 @@
+the results of the tests show that having both triangles and spheres simdified provides great performance
+benefits to some cases and little benefits for others. the variance of performance for different images is
+due to the number of shapes that must be calculated. the two bunny images see the greatest performance increase 
+with the bunny500 image being reduced from 4229ms when only sphere SIMD is used to 2016ms when triangles are
+SIMD. Conversley the 5000spheres image performs better because of the sphere SIMD since there is more spheres
+than triangles.
+
+the allmaterials image and the cornell 500x300 image see very little performance benefit. there is a very small amount of 
+spheres and triangles in the cornell image leading to no meaningful benefits from SIMD.

@@ -1,0 +1,6 @@
+﻿  bmp.cpp
+  LoadCL.cpp
+d:\2019\semester1\kit308 multicore architecture and programming\kit308_multicore_tutorials\tutorial09_openclmandelbrot\LoadCL.h(4): fatal error C1083: Cannot open include file: 'CL/cl.h': No such file or directory
+  Mandelbrot.cpp
+  Tutorial09_OpenCLMandelbrot.cpp
+Tutorial09_OpenCLMandelbrot.cpp(9): fatal error C1083: Cannot open include file: 'CL/cl.h': No such file or directory

@@ -1,0 +1,11 @@
+﻿  bmp.cpp
+  Mandelbrot.cpp
+  Tutorial01_Supersampling.cpp
+  Generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(654,5): warning MSB4220: Waiting for the currently executing task "Link" to cancel.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(654,5): warning MSB4220: Waiting for the currently executing task "Link" to cancel.
+  Compiler terminating.  Please wait........... Abort complete.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(654,5): warning MSB4220: Waiting for the currently executing task "Link" to cancel.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(654,5): error MSB6006: "link.exe" exited with code 4.

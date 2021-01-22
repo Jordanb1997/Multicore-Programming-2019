@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Tutorial10_OpenCLDataManagement.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Tutorial10b_OpenCLDataManagement.cpp
+Tutorial10b_OpenCLDataManagement.cpp(65): warning C4101: 'clBuffer1': unreferenced local variable
+  Generating code
+  0 of 9 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tutorial10b_OpenCLDataManagement.vcxproj -> C:\Users\ij_lewis\Documents\KIT308-408 Multicore\VS Projects\KIT308_Multicore_Tutorials\x64\Release\Tutorial10b_OpenCLDataManagement.exe

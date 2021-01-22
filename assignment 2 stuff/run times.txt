@@ -1,0 +1,29 @@
+P:\a2\RayTracerAss2>set runs=5
+
+P:\a2\RayTracerAss2>cd x64
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64
+average time taken (5 run(s)): 187ms
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64 -samples 4
+average time taken (5 run(s)): 2928ms
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64 -size 500 300
+average time taken (5 run(s)): 28ms
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64 -input ../Scenes/cornell-256lights.txt -size 512 512
+average time taken (5 run(s)): 5581ms
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64 -input ../Scenes/allmaterials.txt
+average time taken (5 run(s)): 68ms
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64 -input ../Scenes/5000spheres.txt -size 960 540
+average time taken (5 run(s)): 1337ms
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64 -input ../Scenes/bunny500.txt
+average time taken (5 run(s)): 206ms
+
+P:\a2\RayTracerAss2\x64>Release\stage1.exe -runs 5 -threads 8 -blockSize 64 -input ../Scenes/bunny10k.txt -size 256 256
+average time taken (5 run(s)): 2018ms
+
+P:\a2\RayTracerAss2\x64>cd ..

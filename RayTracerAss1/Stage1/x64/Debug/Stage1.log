@@ -1,0 +1,9 @@
+﻿  Config.cpp
+  ImageIO.cpp
+  Intersection.cpp
+  Lighting.cpp
+  Raytrace.cpp
+  Scene.cpp
+  Texturing.cpp
+  Generating Code...
+  Stage1.vcxproj -> F:\2019\semester 1\KIT308 multicore architecture and programming\RayTracerAss1\x64\Debug\Stage1.exe

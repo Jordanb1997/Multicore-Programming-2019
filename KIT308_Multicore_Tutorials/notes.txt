@@ -1,0 +1,14 @@
+22612
+12256
+8612
+5014
+4833
+
+where there is one ther is many
+4481
+
+struct of arrays
+3786
+
+unroll loop
+3426

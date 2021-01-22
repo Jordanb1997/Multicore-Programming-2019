@@ -1,0 +1,8 @@
+﻿  Tutorial08_OpenCL.cpp
+Tutorial08_OpenCL.cpp(15): warning C4101: 'err3': unreferenced local variable
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tutorial08_OpenCLBasics.vcxproj -> E:\2019\semester 1\KIT308 multicore architecture and programming\KIT308_Multicore_Tutorials\x64\Release\Tutorial08_OpenCLBasics.exe
